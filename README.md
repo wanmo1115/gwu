@@ -1,2 +1,3 @@
-# gwu
+# Tableau Project
 BA Skills Group 7
+
